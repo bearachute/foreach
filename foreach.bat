@@ -1,0 +1,1 @@
+for /r C:\pictures %%x in (*.jpg) do (echo %%X >> C:\listjpg.txt)
